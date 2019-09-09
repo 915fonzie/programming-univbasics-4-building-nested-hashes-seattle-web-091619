@@ -7,7 +7,7 @@ def monopoly_with_second_tier
 end
 
 def monopoly_with_third_tier
-  hash = {railroads: {pieces: 4, rent_in_dollars: {one_piece_owned: 1, two_piece_owned: 2, three_piece_owned: 3, four_piece_owned: 4}}}
+  hash = {railroads: {pieces: 4, rent_in_dollars: {one_piece_owned: 1, two_piece_owned: 2, three_piece_owned: 3, four_piece_owned: 4}, names: 1}}
 end
 
 def monopoly_with_fourth_tier
